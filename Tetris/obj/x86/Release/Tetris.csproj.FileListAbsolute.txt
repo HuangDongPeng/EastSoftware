@@ -1,0 +1,8 @@
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.Form1.resources
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.Properties.Resources.resources
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.exe
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.pdb
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Release\Tetris.csprojResolveAssemblyReference.cache

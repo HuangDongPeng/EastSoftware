@@ -1,0 +1,17 @@
+E:\MyTest\VSProjects\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\MyTest\VSProjects\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+E:\MyTest\VSProjects\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Dangerous\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
